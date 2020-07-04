@@ -1,0 +1,8 @@
+c:\users\fj\documents\visual studio 2015\Projects\subdemo\subdemo\bin\Debug\subdemo.exe.config
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\subdemo\subdemo\bin\Debug\subdemo.exe
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\subdemo\subdemo\bin\Debug\subdemo.pdb
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\subdemo\subdemo\bin\Debug\Recurly.dll
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\subdemo\subdemo\bin\Debug\Recurly.pdb
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\subdemo\subdemo\obj\Debug\subdemo.csprojResolveAssemblyReference.cache
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\subdemo\subdemo\obj\Debug\subdemo.exe
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\subdemo\subdemo\obj\Debug\subdemo.pdb

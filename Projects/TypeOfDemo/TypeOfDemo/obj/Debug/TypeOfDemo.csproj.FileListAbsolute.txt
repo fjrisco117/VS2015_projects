@@ -1,0 +1,6 @@
+c:\users\fj\documents\visual studio 2015\Projects\TypeOfDemo\TypeOfDemo\bin\Debug\TypeOfDemo.exe.config
+c:\users\fj\documents\visual studio 2015\Projects\TypeOfDemo\TypeOfDemo\bin\Debug\TypeOfDemo.exe
+c:\users\fj\documents\visual studio 2015\Projects\TypeOfDemo\TypeOfDemo\bin\Debug\TypeOfDemo.pdb
+c:\users\fj\documents\visual studio 2015\Projects\TypeOfDemo\TypeOfDemo\obj\Debug\TypeOfDemo.csprojResolveAssemblyReference.cache
+c:\users\fj\documents\visual studio 2015\Projects\TypeOfDemo\TypeOfDemo\obj\Debug\TypeOfDemo.exe
+c:\users\fj\documents\visual studio 2015\Projects\TypeOfDemo\TypeOfDemo\obj\Debug\TypeOfDemo.pdb

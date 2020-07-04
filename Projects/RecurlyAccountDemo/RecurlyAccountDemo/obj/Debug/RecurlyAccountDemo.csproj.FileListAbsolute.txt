@@ -1,0 +1,8 @@
+c:\users\fj\documents\visual studio 2015\Projects\RecurlyAccountDemo\RecurlyAccountDemo\bin\Debug\RecurlyAccountDemo.exe.config
+c:\users\fj\documents\visual studio 2015\Projects\RecurlyAccountDemo\RecurlyAccountDemo\bin\Debug\RecurlyAccountDemo.exe
+c:\users\fj\documents\visual studio 2015\Projects\RecurlyAccountDemo\RecurlyAccountDemo\bin\Debug\RecurlyAccountDemo.pdb
+c:\users\fj\documents\visual studio 2015\Projects\RecurlyAccountDemo\RecurlyAccountDemo\bin\Debug\Recurly.dll
+c:\users\fj\documents\visual studio 2015\Projects\RecurlyAccountDemo\RecurlyAccountDemo\bin\Debug\Recurly.pdb
+c:\users\fj\documents\visual studio 2015\Projects\RecurlyAccountDemo\RecurlyAccountDemo\obj\Debug\RecurlyAccountDemo.csprojResolveAssemblyReference.cache
+c:\users\fj\documents\visual studio 2015\Projects\RecurlyAccountDemo\RecurlyAccountDemo\obj\Debug\RecurlyAccountDemo.exe
+c:\users\fj\documents\visual studio 2015\Projects\RecurlyAccountDemo\RecurlyAccountDemo\obj\Debug\RecurlyAccountDemo.pdb

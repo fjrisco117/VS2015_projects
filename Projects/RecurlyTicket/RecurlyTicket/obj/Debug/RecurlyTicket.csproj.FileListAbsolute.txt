@@ -1,0 +1,8 @@
+c:\users\fj\documents\visual studio 2015\Projects\RecurlyTicket\RecurlyTicket\bin\Debug\RecurlyTicket.exe.config
+c:\users\fj\documents\visual studio 2015\Projects\RecurlyTicket\RecurlyTicket\obj\Debug\RecurlyTicket.csprojResolveAssemblyReference.cache
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\RecurlyTicket\RecurlyTicket\bin\Debug\RecurlyTicket.exe
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\RecurlyTicket\RecurlyTicket\bin\Debug\RecurlyTicket.pdb
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\RecurlyTicket\RecurlyTicket\bin\Debug\Recurly.dll
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\RecurlyTicket\RecurlyTicket\bin\Debug\Recurly.pdb
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\RecurlyTicket\RecurlyTicket\obj\Debug\RecurlyTicket.exe
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\RecurlyTicket\RecurlyTicket\obj\Debug\RecurlyTicket.pdb

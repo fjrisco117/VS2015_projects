@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\fj\documents\visual studio 2015\projects\homework2\homework2\source.c(35): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'bigintmm'
+c:\users\fj\documents\visual studio 2015\projects\homework2\homework2\source.c(35): warning C4024: 'printf': different types for formal and actual parameter 1
+  Homework2.vcxproj -> C:\Users\FJ\documents\visual studio 2015\Projects\Homework2\Debug\Homework2.exe
+  Homework2.vcxproj -> C:\Users\FJ\documents\visual studio 2015\Projects\Homework2\Debug\Homework2.pdb (Full PDB)

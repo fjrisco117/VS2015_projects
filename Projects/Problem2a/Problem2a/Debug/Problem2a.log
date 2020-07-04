@@ -1,0 +1,5 @@
+﻿  prob2a.cpp
+c:\users\fj\documents\visual studio 2015\projects\problem2a\problem2a\prob2a.cpp(25): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\fj\documents\visual studio 2015\projects\problem2a\problem2a\prob2a.cpp(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Problem2a.vcxproj -> c:\Users\FJ\Documents\Visual Studio 2015\Projects\Problem2a\Debug\Problem2a.exe
+  Problem2a.vcxproj -> c:\Users\FJ\Documents\Visual Studio 2015\Projects\Problem2a\Debug\Problem2a.pdb (Full PDB)

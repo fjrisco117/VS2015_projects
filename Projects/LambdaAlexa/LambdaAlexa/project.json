@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0-*",
+  "buildOptions": {
+  },
+
+  "dependencies": {
+    "Alexa.NET": "1.7.0",
+    "Amazon.Lambda.Core": "1.1.0",
+    "Amazon.Lambda.Serialization.Json": "1.5.0",
+    "NuGet.Packaging": "4.6.4"
+  },
+
+  "tools": {
+  },
+
+  "frameworks": {
+    "netcoreapp1.0": {
+      "imports": "dnxcore50"
+    }
+  }
+}

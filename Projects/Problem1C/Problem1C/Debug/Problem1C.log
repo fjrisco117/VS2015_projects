@@ -1,0 +1,4 @@
+﻿  prob1C.cpp
+c:\users\fj\documents\visual studio 2015\projects\problem1b\problem1b\prob1c.cpp(161): warning C4013: 'system' undefined; assuming extern returning int
+  Problem1C.vcxproj -> C:\Users\FJ\Documents\Visual Studio 2015\Projects\Problem1C\Debug\Problem1C.exe
+  Problem1C.vcxproj -> C:\Users\FJ\Documents\Visual Studio 2015\Projects\Problem1C\Debug\Problem1C.pdb (Full PDB)

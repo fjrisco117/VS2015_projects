@@ -1,0 +1,8 @@
+c:\users\fj\documents\visual studio 2015\Projects\CreatePurchase\CreatePurchase\bin\Debug\CreatePurchase.exe.config
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\CreatePurchase\CreatePurchase\bin\Debug\CreatePurchase.exe
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\CreatePurchase\CreatePurchase\bin\Debug\CreatePurchase.pdb
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\CreatePurchase\CreatePurchase\bin\Debug\Recurly.dll
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\CreatePurchase\CreatePurchase\bin\Debug\Recurly.pdb
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\CreatePurchase\CreatePurchase\obj\Debug\CreatePurchase.csprojResolveAssemblyReference.cache
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\CreatePurchase\CreatePurchase\obj\Debug\CreatePurchase.exe
+C:\Users\FJ\Documents\Visual Studio 2015\Projects\CreatePurchase\CreatePurchase\obj\Debug\CreatePurchase.pdb

@@ -1,0 +1,14 @@
+﻿  HW2_part1.c
+c:\users\fj\documents\visual studio 2015\projects\hw2\hw2\hw2_part1.c(24): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\fj\documents\visual studio 2015\projects\hw2\hw2\hw2_part1.c(24): note: consider using '%llx' in the format string
+  c:\users\fj\documents\visual studio 2015\projects\hw2\hw2\hw2_part1.c(24): note: consider using '%I64x' in the format string
+c:\users\fj\documents\visual studio 2015\projects\hw2\hw2\hw2_part1.c(44): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'const unsigned __int64'
+  c:\users\fj\documents\visual studio 2015\projects\hw2\hw2\hw2_part1.c(44): note: consider using '%lld' in the format string
+  c:\users\fj\documents\visual studio 2015\projects\hw2\hw2\hw2_part1.c(44): note: consider using '%I64d' in the format string
+c:\users\fj\documents\visual studio 2015\projects\hw2\hw2\hw2_part1.c(44): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\fj\documents\visual studio 2015\projects\hw2\hw2\hw2_part1.c(44): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+c:\users\fj\documents\visual studio 2015\projects\hw2\hw2\hw2_part1.c(75): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\fj\documents\visual studio 2015\projects\hw2\hw2\hw2_part1.c(57): warning C4101: 'br': unreferenced local variable
+c:\users\fj\documents\visual studio 2015\projects\hw2\hw2\hw2_part1.c(57): warning C4101: 'pr': unreferenced local variable
+  HW2.vcxproj -> C:\Users\FJ\Documents\Visual Studio 2015\Projects\HW2\Debug\HW2.exe
+  HW2.vcxproj -> C:\Users\FJ\Documents\Visual Studio 2015\Projects\HW2\Debug\HW2.pdb (Full PDB)

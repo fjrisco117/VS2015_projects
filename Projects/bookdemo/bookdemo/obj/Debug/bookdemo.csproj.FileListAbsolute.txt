@@ -1,0 +1,6 @@
+c:\users\fj\documents\visual studio 2015\Projects\bookdemo\bookdemo\bin\Debug\bookdemo.exe.config
+c:\users\fj\documents\visual studio 2015\Projects\bookdemo\bookdemo\bin\Debug\bookdemo.exe
+c:\users\fj\documents\visual studio 2015\Projects\bookdemo\bookdemo\bin\Debug\bookdemo.pdb
+c:\users\fj\documents\visual studio 2015\Projects\bookdemo\bookdemo\obj\Debug\bookdemo.csprojResolveAssemblyReference.cache
+c:\users\fj\documents\visual studio 2015\Projects\bookdemo\bookdemo\obj\Debug\bookdemo.exe
+c:\users\fj\documents\visual studio 2015\Projects\bookdemo\bookdemo\obj\Debug\bookdemo.pdb

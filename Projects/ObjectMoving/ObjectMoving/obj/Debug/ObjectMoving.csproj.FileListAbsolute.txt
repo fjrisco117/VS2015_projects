@@ -1,0 +1,10 @@
+c:\users\fj\documents\visual studio 2015\Projects\ObjectMoving\ObjectMoving\bin\Debug\ObjectMoving.exe.config
+c:\users\fj\documents\visual studio 2015\Projects\ObjectMoving\ObjectMoving\bin\Debug\ObjectMoving.exe
+c:\users\fj\documents\visual studio 2015\Projects\ObjectMoving\ObjectMoving\bin\Debug\ObjectMoving.pdb
+c:\users\fj\documents\visual studio 2015\Projects\ObjectMoving\ObjectMoving\obj\Debug\ObjectMoving.csprojResolveAssemblyReference.cache
+c:\users\fj\documents\visual studio 2015\Projects\ObjectMoving\ObjectMoving\obj\Debug\ObjectMoving.FormView.resources
+c:\users\fj\documents\visual studio 2015\Projects\ObjectMoving\ObjectMoving\obj\Debug\ObjectMoving.Properties.Resources.resources
+c:\users\fj\documents\visual studio 2015\Projects\ObjectMoving\ObjectMoving\obj\Debug\ObjectMoving.csproj.GenerateResource.Cache
+c:\users\fj\documents\visual studio 2015\Projects\ObjectMoving\ObjectMoving\obj\Debug\ObjectMoving.exe
+c:\users\fj\documents\visual studio 2015\Projects\ObjectMoving\ObjectMoving\obj\Debug\ObjectMoving.pdb
+c:\users\fj\documents\visual studio 2015\Projects\ObjectMoving\ObjectMoving\bin\Debug\mushroom.png

@@ -1,0 +1,6 @@
+c:\users\fj\documents\visual studio 2015\Projects\genericsdemo\genericsdemo\bin\Debug\genericsdemo.exe.config
+c:\users\fj\documents\visual studio 2015\Projects\genericsdemo\genericsdemo\bin\Debug\genericsdemo.exe
+c:\users\fj\documents\visual studio 2015\Projects\genericsdemo\genericsdemo\bin\Debug\genericsdemo.pdb
+c:\users\fj\documents\visual studio 2015\Projects\genericsdemo\genericsdemo\obj\Debug\genericsdemo.csprojResolveAssemblyReference.cache
+c:\users\fj\documents\visual studio 2015\Projects\genericsdemo\genericsdemo\obj\Debug\genericsdemo.exe
+c:\users\fj\documents\visual studio 2015\Projects\genericsdemo\genericsdemo\obj\Debug\genericsdemo.pdb

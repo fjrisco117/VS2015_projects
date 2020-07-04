@@ -1,0 +1,9 @@
+c:\users\fj\documents\visual studio 2015\Projects\Car Racing Game\Car Racing Game\bin\Debug\Car Racing Game.exe.config
+c:\users\fj\documents\visual studio 2015\Projects\Car Racing Game\Car Racing Game\bin\Debug\Car Racing Game.exe
+c:\users\fj\documents\visual studio 2015\Projects\Car Racing Game\Car Racing Game\bin\Debug\Car Racing Game.pdb
+c:\users\fj\documents\visual studio 2015\Projects\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.csprojResolveAssemblyReference.cache
+c:\users\fj\documents\visual studio 2015\Projects\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.Form1.resources
+c:\users\fj\documents\visual studio 2015\Projects\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.Properties.Resources.resources
+c:\users\fj\documents\visual studio 2015\Projects\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.csproj.GenerateResource.Cache
+c:\users\fj\documents\visual studio 2015\Projects\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.exe
+c:\users\fj\documents\visual studio 2015\Projects\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.pdb

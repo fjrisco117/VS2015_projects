@@ -1,0 +1,8 @@
+c:\users\fj\documents\visual studio 2015\Projects\RecurlySubsNextBill\RecurlySubsNextBill\bin\Debug\RecurlySubsNextBill.exe.config
+c:\users\fj\documents\visual studio 2015\Projects\RecurlySubsNextBill\RecurlySubsNextBill\bin\Debug\RecurlySubsNextBill.exe
+c:\users\fj\documents\visual studio 2015\Projects\RecurlySubsNextBill\RecurlySubsNextBill\bin\Debug\RecurlySubsNextBill.pdb
+c:\users\fj\documents\visual studio 2015\Projects\RecurlySubsNextBill\RecurlySubsNextBill\bin\Debug\Recurly.dll
+c:\users\fj\documents\visual studio 2015\Projects\RecurlySubsNextBill\RecurlySubsNextBill\bin\Debug\Recurly.pdb
+c:\users\fj\documents\visual studio 2015\Projects\RecurlySubsNextBill\RecurlySubsNextBill\obj\Debug\RecurlySubsNextBill.csprojResolveAssemblyReference.cache
+c:\users\fj\documents\visual studio 2015\Projects\RecurlySubsNextBill\RecurlySubsNextBill\obj\Debug\RecurlySubsNextBill.exe
+c:\users\fj\documents\visual studio 2015\Projects\RecurlySubsNextBill\RecurlySubsNextBill\obj\Debug\RecurlySubsNextBill.pdb
